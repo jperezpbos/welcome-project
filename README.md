@@ -6,27 +6,9 @@ This project is used to demonstrate some of the features provided by the FeedHen
 
 https://github.com/feedhenry/welcome-project-client
 
-The main frameworks & tools used by the client app are:
-
-* Backbone.js (http://backbonejs.org/)
-* Bootstrap 3 (http://getbootstrap.com/)
-* Yeoman (http://yeoman.io/)
-* Jasmine (http://pivotal.github.io/jasmine/)
-
-For more details about how to develop and build the client app, please check the README file in the client/ directory.
-
 # Cloud App
 
 https://github.com/feedhenry/welcome-project-cloud
-
-The following functions are demoed in the cloud app:
-
-* How to use MongoDB
-* How to use Redis Cache
-* How to use thirdparty service providers
-* How to write integration & acceptance tests using Whiskey
-
-For more details please check the README file in the cloud/ directory.
 
 # Development Setup
 
