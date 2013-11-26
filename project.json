@@ -3,10 +3,10 @@
   "apps": [{
     "name": "Welcome Project-client",
     "type": "client_hybrid",
-    "repo": "https://github.com/feedhenry/welcome-project-client.git"
+    "repoUrl": "https://github.com/feedhenry/welcome-project-client.git"
   }, {
     "name": "Welcome Project-cloud",
     "type": "cloud_nodejs",
-    "repo": "https://github.com/feedhenry/welcome-project-cloud.git"
+    "repoUrl": "https://github.com/feedhenry/welcome-project-cloud.git"
   }]
 }
