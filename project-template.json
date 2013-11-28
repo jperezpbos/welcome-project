@@ -12,12 +12,14 @@
     {
       "name": "Welcome Project-client",
       "type": "client_hybrid",
-      "repoUrl": "https://github.com/feedhenry/welcome-project-client.git"
+      "repoUrl": "https://github.com/feedhenry/welcome-project-client.git",
+      "repoBranch": "refs/heads/5202-ngui-template-configs"
     },
     {
       "name": "Welcome Project-cloud",
       "type": "cloud_nodejs",
-      "repoUrl": "https://github.com/feedhenry/welcome-project-cloud.git"
+      "repoUrl": "https://github.com/feedhenry/welcome-project-cloud.git",
+      "repoBranch": "refs/heads/5202-ngui-template-configs"
     }
   ],
   "appTemplates": ["https://raw.github.com/feedhenry/welcome-project-cloud/5202-ngui-template-configs/app-template.json",
