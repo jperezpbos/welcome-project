@@ -5,12 +5,12 @@
   "category": "Sample Projects",
   "apps": [
     {
-      "name": "Blank Project-client",
+      "name": "Welcome Project-client",
       "type": "client_hybrid",
       "repoUrl": "https://github.com/feedhenry/welcome-project-client.git"
     },
     {
-      "name": "Blank Project-cloud",
+      "name": "Welcome Project-cloud",
       "type": "cloud_nodejs",
       "repoUrl": "https://github.com/feedhenry/welcome-project-cloud.git"
     }
