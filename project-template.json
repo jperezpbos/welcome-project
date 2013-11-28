@@ -4,7 +4,7 @@
   "icon": "icon-edit",
   "category": "Sample Projects",
   "templateType": "welcome-project",
-  "templateRepo": {
+  "repo": {
     "url": "git://github.com/feedhenry/welcome-project.git",
     "branch": "refs/heads/master"
   },
