@@ -3,6 +3,11 @@
   "type": "other",
   "icon": "icon-edit",
   "category": "Sample Projects",
+  "templateType": "welcome-project",
+  "templateRepo": {
+    "url": "git://github.com/feedhenry/welcome-project.git",
+    "branch": "refs/heads/master"
+  },
   "apps": [
     {
       "name": "Welcome Project-client",
