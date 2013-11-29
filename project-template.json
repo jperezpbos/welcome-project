@@ -15,13 +15,13 @@
   },
   "apps": [
     {
-      "name": "Welcome Project-client",
+      "name": "Welcome Project Hybrid Client",
       "type": "client_hybrid",
       "repoUrl": "https://github.com/feedhenry/welcome-project-client.git",
       "repoBranch": "refs/heads/master"
     },
     {
-      "name": "Welcome Project-cloud",
+      "name": "Welcome Project Cloud mBaaS Instance",
       "type": "cloud_nodejs",
       "repoUrl": "https://github.com/feedhenry/welcome-project-cloud.git",
       "repoBranch": "refs/heads/master"
