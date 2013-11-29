@@ -1,0 +1,32 @@
+{
+  "name": "Welcome Project",
+  "type": "other",
+  "icon": "icon-edit",
+  "category": "Sample Projects",
+  "templateType": "welcome-project",
+  "screenshots": [{
+    "url": "public/img/templatePreview/sampleproject_container.png"
+    }, {
+    "url": "public/img/templatePreview/sampleproject_nocontainer.png"
+  }],
+  "repo": {
+    "url": "git://github.com/feedhenry/welcome-project.git",
+    "branch": "refs/heads/master"
+  },
+  "apps": [
+    {
+      "name": "Welcome Project-client",
+      "type": "client_hybrid",
+      "repoUrl": "https://github.com/feedhenry/welcome-project-client.git",
+      "repoBranch": "refs/heads/master"
+    },
+    {
+      "name": "Welcome Project-cloud",
+      "type": "cloud_nodejs",
+      "repoUrl": "https://github.com/feedhenry/welcome-project-cloud.git",
+      "repoBranch": "refs/heads/master"
+    }
+  ],
+  "appTemplates": ["https://raw.github.com/feedhenry/welcome-project-cloud/master/app-template.json",
+    "https://raw.github.com/feedhenry/welcome-project-client/master/app-template.json"]
+}
