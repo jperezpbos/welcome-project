@@ -17,16 +17,16 @@
     {
       "name": "Welcome Project Hybrid Client",
       "type": "client_hybrid",
-      "repoUrl": "https://github.com/feedhenry/welcome-project-client.git",
+      "repoUrl": "https://github.com/feedhenry-sample-apps/welcome-project-client.git",
       "repoBranch": "refs/heads/master"
     },
     {
       "name": "Welcome Project Cloud mBaaS Instance",
       "type": "cloud_nodejs",
-      "repoUrl": "https://github.com/feedhenry/welcome-project-cloud.git",
+      "repoUrl": "https://github.com/feedhenry-sample-apps/welcome-project-cloud.git",
       "repoBranch": "refs/heads/master"
     }
   ],
-  "appTemplates": ["https://raw.github.com/feedhenry/welcome-project-cloud/master/app-template.json",
-    "https://raw.github.com/feedhenry/welcome-project-client/master/app-template.json"]
+  "appTemplates": ["https://raw.github.com/feedhenry-sample-apps/welcome-project-cloud/master/app-template.json",
+    "https://raw.github.com/feedhenry-sample-apps/welcome-project-client/master/app-template.json"]
 }

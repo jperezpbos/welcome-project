@@ -4,11 +4,11 @@ This project is used to demonstrate some of the features provided by the FeedHen
 
 # Client App
 
-https://github.com/feedhenry/welcome-project-client
+https://github.com/feedhenry-sample-apps/welcome-project-client
 
 # Cloud App
 
-https://github.com/feedhenry/welcome-project-cloud
+https://github.com/feedhenry-sample-apps/welcome-project-cloud
 
 # Development Setup
 
@@ -25,4 +25,4 @@ If you want to see the distribution version, run the following commands instead:
     cd ..
     fhc local <appId>
 
-Then do your normal development in the client/app directory and everytime a file is changed, the distribution version will be generated automatically.
+Then do your normal development in the client/app directory and every time a file is changed, the distribution version will be generated automatically.
